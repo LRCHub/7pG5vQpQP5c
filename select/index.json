@@ -1,0 +1,312 @@
+{
+  "version": 1,
+  "base_track": "It's You",
+  "base_artist": "Ali Gatie",
+  "createdAt": "2026-02-27T15:22:18.535896Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "It's You",
+      "artist": "Kurt Travis",
+      "has_synced": false,
+      "path": "select/01_It's_You_Kurt_Travis.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "오랜 소원 It's You",
+      "artist": "Girls' Generation",
+      "has_synced": true,
+      "path": "select/02_오랜_소원_It's_You_Girls'_Generation.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "오랜 소원 (It's You)",
+      "artist": "Girls' Generation",
+      "has_synced": true,
+      "path": "select/03_오랜_소원_(It's_You)_Girls'_Generation.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "It's You",
+      "artist": "Chaka Khan",
+      "has_synced": true,
+      "path": "select/04_It's_You_Chaka_Khan.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "It's You",
+      "artist": "Shannon",
+      "has_synced": false,
+      "path": "select/05_It's_You_Shannon.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "It's You",
+      "artist": "Tiffany",
+      "has_synced": false,
+      "path": "select/06_It's_You_Tiffany.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "It's You + A Moment To Rest (Interlude)",
+      "artist": "Tiffany",
+      "has_synced": true,
+      "path": "select/07_It's_You_+_A_Moment_To_Rest_(Interlude)_Tiffany.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Maybe It's You",
+      "artist": "Robert Palmer",
+      "has_synced": false,
+      "path": "select/08_Maybe_It's_You_Robert_Palmer.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Maybe It's You",
+      "artist": "Fragma",
+      "has_synced": false,
+      "path": "select/09_Maybe_It's_You_Fragma.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Baby It's You",
+      "artist": "The Beatles",
+      "has_synced": true,
+      "path": "select/10_Baby_It's_You_The_Beatles.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Baby It's You",
+      "artist": "London Grammar",
+      "has_synced": true,
+      "path": "select/11_Baby_It's_You_London_Grammar.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "It's You",
+      "artist": "Bondax",
+      "has_synced": true,
+      "path": "select/12_It's_You_Bondax.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "I Know It's You",
+      "artist": "The Crystal Method",
+      "has_synced": true,
+      "path": "select/13_I_Know_It's_You_The_Crystal_Method.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "It's You",
+      "artist": "Air Traffic Controller",
+      "has_synced": false,
+      "path": "select/14_It's_You_Air_Traffic_Controller.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "It's You",
+      "artist": "PJ Harvey",
+      "has_synced": true,
+      "path": "select/15_It's_You_PJ_Harvey.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Baby It’s You",
+      "artist": "The Beatles",
+      "has_synced": true,
+      "path": "select/16_Baby_It’s_You_The_Beatles.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Baby It's You - Remastered",
+      "artist": "The Carpenters",
+      "has_synced": false,
+      "path": "select/17_Baby_It's_You_-_Remastered_The_Carpenters.txt"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "I Know It’s You",
+      "artist": "DJ Madd",
+      "has_synced": false,
+      "path": "select/18_I_Know_It’s_You_DJ_Madd.txt"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "It's You",
+      "artist": "Duck Sauce",
+      "has_synced": true,
+      "path": "select/19_It's_You_Duck_Sauce.lrc"
+    },
+    {
+      "id": "lrclib_20",
+      "source": "lrclib",
+      "title": "For What It’s Worth",
+      "artist": "Buffalo Springfield",
+      "has_synced": true,
+      "path": "select/20_For_What_It’s_Worth_Buffalo_Springfield.lrc"
+    },
+    {
+      "id": "lrclib_21",
+      "source": "lrclib",
+      "title": "It's Hard to Be a Saint in the City",
+      "artist": "Bruce Springsteen",
+      "has_synced": true,
+      "path": "select/21_It's_Hard_to_Be_a_Saint_in_the_City_Bruce_Springsteen.lrc"
+    },
+    {
+      "id": "lrclib_22",
+      "source": "lrclib",
+      "title": "Like It's The Last Time",
+      "artist": "Thomas Rhett",
+      "has_synced": false,
+      "path": "select/22_Like_It's_The_Last_Time_Thomas_Rhett.txt"
+    },
+    {
+      "id": "lrclib_23",
+      "source": "lrclib",
+      "title": "What It's Like Loving You",
+      "artist": "Maddie & Tae",
+      "has_synced": true,
+      "path": "select/23_What_It's_Like_Loving_You_Maddie_&_Tae.lrc"
+    },
+    {
+      "id": "lrclib_24",
+      "source": "lrclib",
+      "title": "It's Got Old",
+      "artist": "King Gizzard & The Lizard Wizard",
+      "has_synced": true,
+      "path": "select/24_It's_Got_Old_King_Gizzard_&_The_Lizard_Wizard.lrc"
+    },
+    {
+      "id": "lrclib_25",
+      "source": "lrclib",
+      "title": "It's Got Old",
+      "artist": "King Gizzard and the Lizard Wizard",
+      "has_synced": true,
+      "path": "select/25_It's_Got_Old_King_Gizzard_and_the_Lizard_Wizard.lrc"
+    },
+    {
+      "id": "lrclib_26",
+      "source": "lrclib",
+      "title": "It's Not Right But It's Okay",
+      "artist": "CHVRCHES",
+      "has_synced": true,
+      "path": "select/26_It's_Not_Right_But_It's_Okay_CHVRCHES.lrc"
+    },
+    {
+      "id": "lrclib_27",
+      "source": "lrclib",
+      "title": "It’s Not Right but It’s Okay",
+      "artist": "CHVRCHES",
+      "has_synced": true,
+      "path": "select/27_It’s_Not_Right_but_It’s_Okay_CHVRCHES.lrc"
+    },
+    {
+      "id": "lrclib_28",
+      "source": "lrclib",
+      "title": "Already It's Heaven",
+      "artist": "David Houston",
+      "has_synced": true,
+      "path": "select/28_Already_It's_Heaven_David_Houston.lrc"
+    },
+    {
+      "id": "lrclib_29",
+      "source": "lrclib",
+      "title": "Don't Think Twice, It's All Right",
+      "artist": "Johnny Cash",
+      "has_synced": true,
+      "path": "select/29_Don't_Think_Twice,_It's_All_Right_Johnny_Cash.lrc"
+    },
+    {
+      "id": "lrclib_30",
+      "source": "lrclib",
+      "title": "For What It’s Worth",
+      "artist": "Breland",
+      "has_synced": true,
+      "path": "select/30_For_What_It’s_Worth_Breland.lrc"
+    },
+    {
+      "id": "lrclib_31",
+      "source": "lrclib",
+      "title": "Hope It's Hot Out",
+      "artist": "Kyle Clark",
+      "has_synced": true,
+      "path": "select/31_Hope_It's_Hot_Out_Kyle_Clark.lrc"
+    },
+    {
+      "id": "lrclib_32",
+      "source": "lrclib",
+      "title": "Hope It's Hot Out",
+      "artist": "Kyle Clark",
+      "has_synced": true,
+      "path": "select/32_Hope_It's_Hot_Out_Kyle_Clark.lrc"
+    },
+    {
+      "id": "lrclib_33",
+      "source": "lrclib",
+      "title": "I Like It When It's Stormy",
+      "artist": "Hank Williams, Jr.",
+      "has_synced": false,
+      "path": "select/33_I_Like_It_When_It's_Stormy_Hank_Williams,_Jr..txt"
+    },
+    {
+      "id": "lrclib_34",
+      "source": "lrclib",
+      "title": "It's a Great Day to Be Alive",
+      "artist": "Travis Tritt",
+      "has_synced": true,
+      "path": "select/34_It's_a_Great_Day_to_Be_Alive_Travis_Tritt.lrc"
+    },
+    {
+      "id": "lrclib_35",
+      "source": "lrclib",
+      "title": "It's A Great Day To Be Alive (Album Version)",
+      "artist": "Travis Tritt",
+      "has_synced": true,
+      "path": "select/35_It's_A_Great_Day_To_Be_Alive_(Album_Version)_Travis_Tritt.lrc"
+    },
+    {
+      "id": "lrclib_36",
+      "source": "lrclib",
+      "title": "It's A Little Too Late",
+      "artist": "Tanya Tucker",
+      "has_synced": false,
+      "path": "select/36_It's_A_Little_Too_Late_Tanya_Tucker.txt"
+    },
+    {
+      "id": "lrclib_37",
+      "source": "lrclib",
+      "title": "It's A Little Too Late",
+      "artist": "Tanya Tucker",
+      "has_synced": true,
+      "path": "select/37_It's_A_Little_Too_Late_Tanya_Tucker.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "It's You",
+      "artist": "Ali Gatie",
+      "has_synced": false,
+      "path": "select/pl_01_It's_You_Ali_Gatie.txt"
+    }
+  ]
+}
